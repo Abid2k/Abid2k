@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abid2k&label=Profile%20views&color=0e75b6&style=flat" alt="abid2k" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abid2k" alt="abid2k" /></a> </p>
-
 - 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **AI/MACHINE LEARNING**
@@ -15,6 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/@abid0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abid0a" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/abid002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abid002" height="30" width="40" /></a>
+<a href="https://kaggle.com/abid002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abid002" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
