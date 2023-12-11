@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abid.A</h1>
-<h3 align="center">📊 Aspiring Data Science Intern | Seeking Opportunities 📈</h3>
+<h3 align="center">📊 Aspiring Data Scientist | Machine learning | Deep Learning |Seeking Opportunities 📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abid2k&label=Profile%20views&color=0e75b6&style=flat" alt="abid2k" /> </p>
 
