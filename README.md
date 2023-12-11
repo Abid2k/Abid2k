@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **AI/MACHINE LEARNING**
+- 💬 Ask me about **AI/ML/DL**
 
 - 📫 How to reach me **abid.hi2k@gmail.com**
 
